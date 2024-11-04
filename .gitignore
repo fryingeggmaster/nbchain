@@ -1,0 +1,14 @@
+**/target/
+**/*.rs.bk
+*.swp
+**/._*
+.idea
+.vscode
+.DS_Store
+scripts/data
+scripts/config
+scripts/nbchain-node
+scripts/polkadot
+*.log
+
+
